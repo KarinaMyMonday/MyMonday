@@ -1,0 +1,4 @@
+iteration,collectionName,requestName,method,url,status,code,responseTime,responseSize,executed,failed,skipped
+"1","temp.collection","https://www.tut.by/","GET","https://www.onliner.by/","OK","200","160","249828","Response time is less than 200ms, Onliner content-Type is present, Response time is less than 2000"
+"1","temp.collection","onliner","GET","https://vk.com/","OK","200","359","10645","Мабільная версія УКантакце content-Type is present","Response time is less than 200ms, Response time is less than 2000"
+"1","temp.collection","vk","GET","https://vk.com/","OK","200","148","10645","Response time is less than 200ms, Мабільная версія УКантакце content-Type is present, Response time is less than 2000"
