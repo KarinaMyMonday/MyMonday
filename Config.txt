@@ -1,0 +1,3 @@
+email = zhorova.karina@gmail.com
+	
+name = KarinaZhorova
